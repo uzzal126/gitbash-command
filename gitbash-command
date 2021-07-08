@@ -1,0 +1,2 @@
+winpty vue.cmd create app-name
+winpty npx.cmd create-nuxt-app app-name
